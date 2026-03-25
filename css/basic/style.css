@@ -1,0 +1,47 @@
+/* div{
+    border: 2px solid black
+}
+div{
+    border: 2px solid rgb(223, 14, 14)
+} */
+
+/* 
+selector_name{
+    property: value;
+} */
+
+/* selectors in css  */
+/* 1.tag selectors  */
+/* 
+div {
+  border: 2px solid black;
+}
+p{
+      border: 2px solid black;
+
+} */
+/* 2.class selectors  */
+
+/* .box1 {
+  border: 2px solid black;
+}
+.box2 {
+  border: 2px solid rgb(151, 19, 19);
+} */
+
+
+.box1{
+      border: 2px solid black;
+
+
+}
+
+.b1{
+    background-color: red;
+}
+
+/* 3. Id selectors  */
+#first{
+    border: 2px solid black;
+}
+

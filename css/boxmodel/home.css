@@ -1,0 +1,43 @@
+/* .parent {
+  border: 2px solid rgb(210, 6, 6);
+  width: 500px;
+  height: 500px;
+} */
+/* 
+.box {
+  border: 2px solid black; */
+/* unit system  */
+/* px  */
+/* 96px=1 inch  */
+/* cm , mm, inch  */
+/* px  */
+/* 1000px=1000/96 inch  */
+/* 1. absolute unit  */
+/* cm , mm, inch  */
+/* px  */
+/* relative unit  */
+/* %,vw,vh,em, rem  */
+/* 
+  width: 50vw;
+  height: 100px; */
+/* } */
+.box {
+  /* border: 2px solid black */
+  /* border-width: 10px;
+  border-color: red;
+  border-style: dashed;
+  border-style: dotted;
+  border-style: double;
+  border-style: solid; */
+  width: 200px;
+  height: 200px;
+  /* border: 10px solid black; */
+  border-top: 30px solid red;
+  border-right: 30px solid green;
+  border-left: 30px solid rgb(232, 163, 13);
+  border-bottom: 30px solid rgb(219, 8, 71);
+  /* border-radius: 200px; */
+  border-radius: 50%;
+  background-color: rgb(13, 13, 13);
+  color: white;
+}
