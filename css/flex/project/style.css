@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.parent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 100px;
+  padding-right: 100px;
+  background-color: black;
+  color: white;
+  height: 70px;
+}
+ul {
+  display: flex;
+  gap: 50px;
+  list-style: none;
+}
+.Contact {
+  border: 2px solid black;
+  background-color: #059862;
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 50px;
+}

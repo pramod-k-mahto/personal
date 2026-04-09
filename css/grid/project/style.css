@@ -1,0 +1,30 @@
+.parent {
+  border: 2px solid black;
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+  grid-template-rows: 20vh 80vh;
+}
+.box {
+  border: 2px solid black;
+  font-size: 10px;
+}
+
+.b1 {
+  grid-column-start: 1;
+  grid-column-end: 4;
+}
+
+.first {
+  display: flex;
+  border: 2px solid black;
+}
+
+.link {
+  display: flex;
+}
+
+.second {
+  display: flex;
+  border: 2px solid black;
+}

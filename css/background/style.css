@@ -1,0 +1,65 @@
+.box {
+  border: 2px solid black;
+  height: 500px;
+  width: 900px;
+  margin: auto;
+
+  /* background-color: black; */
+  /* color: white; */
+
+  /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwq9YqYcsEvKF6i5_jvmF9s1g4O1dQjtmUA&s "); */
+  /* background-repeat: repeat;
+    background-repeat: repeat-x;
+    background-repeat: repeat-y; */
+  /* background-repeat: no-repeat; */
+  /* background-size: auto; */
+  /* background-size: contain; */
+  /* background-size: cover; */
+  /* background-size: 100px 500px; */
+
+  /* background-position: top left;
+    background-position: top center;
+    background-position: top right; */
+  /* background-position: center left;  */
+  /* background-position: center center; 
+    background-position: center right;  */
+  /* background-position: bottom  left; 
+    background-position: bottom  center; 
+    background-position: bottom  right;  */
+
+  /* background-position: top center; */
+  /* background-size: cover;
+    background-position: 0px -100px; */
+
+  /* color: rgb(9, 190, 67); */
+  /* text-align: left;
+    text-align: center;
+    text-align: right; */
+
+  /* text-align: justify; */
+  /* text-decoration: underline; */
+  /* text-decoration: line-through; */
+  /* text-decoration: overline; */
+
+  /* text-decoration:   2px solid rgb(234, 14, 14)  underline; */
+
+  /* text-transform: uppercase;
+  text-transform: lowercase;
+  text-transform: capitalize;
+  line-height: 25px; */
+  /* letter-spacing: 2px; */
+  /* font-weight: bolder; */
+  /* font-family: serif; */
+  /* font-family: sans-serif; */
+  /* font-family: monospace; */
+  /* word-spacing: 10px; */
+    /* font-family: "Playwrite IE", cursive;   
+    font-size: 30px;
+    font-weight: bold;
+  padding: 10px; */
+}
+/*  */
+/* flex  */
+/* grid */
+/* @med */
+/* js  */

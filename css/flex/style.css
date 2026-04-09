@@ -1,0 +1,43 @@
+.parent {
+  border: 2px solid black;
+  height: 500px;
+  display: flex;
+  /* flex-direction: row;
+  flex-direction: row-reverse;
+  flex-direction: column;
+  flex-direction: column-reverse; */
+  /* justify-content: baseline;
+  justify-content: center;
+  justify-content: end; */
+  /* justify-content: space-between; */
+  /* justify-content: space-evenly; */
+  /* justify-content: space-around; */
+  /* align-items: baseline;
+  align-items: center;
+  align-items: end; */
+  /* align-items: end;
+  justify-content:end; */
+  /* flex-wrap: nowrap;
+  flex-wrap: wrap;
+  flex-wrap: wrap-reverse; */
+  /* flex-wrap: wrap; */
+  /* align-items: end; */
+  /* align-content: baseline;
+  align-content: center;
+  align-content: end; */
+  /* 
+  align-content: space-between;
+  align-content: space-around;
+  align-content: space-evenly; */
+  /* align-content: baseline; */
+  /* row-gap: 60px; */
+  /* column-gap:10px ; */
+  /* gap: 50px; */
+  /* display: flex; */
+}
+
+.child {
+  border: 2px solid rgb(222, 24, 24);
+  height: 70px;
+  width: 70px;
+}

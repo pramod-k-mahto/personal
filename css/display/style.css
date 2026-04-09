@@ -1,0 +1,10 @@
+.box{
+    border: 2px solid black;
+    height: auto;
+    width: 300px;
+    /* overflow: visible;
+    overflow: hidden;
+    overflow: scroll;
+    overflow:auto;
+    padding: 10px; */
+}

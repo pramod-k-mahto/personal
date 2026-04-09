@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.responsive {
+  border: 2px solid black;
+  height: 100px;
+  background-color: red;
+}
+/* @media (width:300px) {
+    .responsive{
+        background-color: black;
+        color: white;
+        height: 500px;
+        border-radius: 10px;
+    }
+    
+} */
+/* 0px-400px */
+/* @media (max-width: 400px) {
+  .responsive {
+    background-color: rgb(70, 21, 230);
+  }
+} */
+/* 500px->above */
+/* @media (min-width: 500px) {
+  .responsive {
+    background-color: aqua;
+  }
+} */
+/* 0-500px */
+/* 500px-800px */
+/* 800px-1200px */
+/* 1200px-above  */
+@media (min-width: 0px) and (max-width: 500px) {
+  .responsive {
+    background-color: rgb(12, 243, 66);
+  }
+}
+@media (min-width: 500px) and (max-width: 800px) {
+  .responsive {
+    background-color: rgb(225, 122, 4);
+  }
+}
+@media (min-width: 800px) and (max-width: 1200px) {
+  .responsive {
+    background-color: rgb(36, 13, 247);
+  }
+}
+@media (min-width: 1200px) {
+  .responsive {
+    background-color: black;
+  }
+}
